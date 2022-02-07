@@ -2,7 +2,7 @@
   "name": "taiwan-tourist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://easonlin1996.github.io/taiwan-tourist-page/",
+  "homepage": "./",
   "dependencies": {
     "@ant-design/icons": "^4.6.2",
     "@babel/core": "7.12.3",
